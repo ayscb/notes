@@ -207,3 +207,7 @@ static {
 @GeneratedValue(strategy=GenerationType.IDENTITY)
 
 摘录自： http://blog.csdn.net/canot/article/details/51455967
+
+
+http://www.ityouknow.com/springboot/2016/08/20/springboot(%E4%BA%94)-spring-data-jpa%E7%9A%84%E4%BD%BF%E7%94%A8.html
+http://www.jianshu.com/p/c84a91992c32
